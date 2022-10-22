@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 * {
     margin: 0;
     padding: 0;
@@ -42,49 +42,3 @@ body {
     border-radius: 8px;
     transition: all 0.3s ease-in;
 }
-=======
-*
-{
-    margin: 0;
-    padding: 0;
-}
-body
-{
-    /* background-image: url('bg.jpeg'); */
-    overflow: hidden;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-}
-.taskbar
-{
-    position: absolute;
-    display: flex;
-    justify-content: center;
-    width: 100%;
-    background:rgb(240 240 240);
-    bottom: 0;
-    z-index: 110;
-}
-.right
-{
-    justify-self: flex-end ;
-    position: absolute;
-    right: 0;
-    margin: 6px 0;
-    height:87%;
-}
-.startmenu
-{
-    position: absolute;
-    /* bottom: 50px; */
-    bottom: -655px;
-    width: 100%;
-    text-align: center;
-}
-.startmenu img
-{
-    border-radius: 8px;
-    transition: all 0.3s ease-in;
-}
->>>>>>> 70eeb5a0db8f544e6525af8e05a24961bf78d508
